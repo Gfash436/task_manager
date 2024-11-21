@@ -2,7 +2,7 @@
   "name": "fm_proj",
   "version": "1.0.0",
   "main": "app.js",
-  "author": "drsimplegraffiti <abayomiogunnusi@gmail.com>",
+  "author": "Femi Fashola <fashola436@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node app.js",
